@@ -1,0 +1,10 @@
+[
+    {
+        "importFilesToOrigRelpaths": {},
+        "primary_contract": "KotlinTest",
+        "specfile": ".certora_config/0_KotlinTest.spec.spec",
+        "specfileOrigRelpath": "certora/specs/KotlinTest.spec",
+        "specfilesToImportDecls": {},
+        "type": "spec"
+    }
+]
